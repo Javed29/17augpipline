@@ -1,7 +1,7 @@
 rg ={
 
 rg1={
-name= "javed"
+name= "tom"
 location = "eastus"
 }
 }
